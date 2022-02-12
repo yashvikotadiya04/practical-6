@@ -1,3 +1,6 @@
+#ID: 20CE045
+#NAME: YASHVI KOTADIYA
+
 from collections import Counter
 t=int(input ())        #number of test cases
 l=list()               #list for storing string
